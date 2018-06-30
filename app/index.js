@@ -5,4 +5,4 @@ import ReactDOM from "react-dom";
 
 console.log('test');
 
-ReactDOM.render((<div>hello world</div>),document.getElementById("root"))
+ReactDOM.render((<div>hello 测试ss world!~~</div>),document.getElementById("root"))
